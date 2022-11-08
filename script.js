@@ -1,1 +1,1 @@
-console.log("Hello There")
+const term = document.querySelector('.term')
