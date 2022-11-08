@@ -6,7 +6,8 @@
 }
 
 .term {
-    border: solid 5px red;
+    border: solid 5px black;
+    border-radius: 15px;
     text-align: center;
     width: 45%;
     margin: auto;
@@ -14,7 +15,8 @@
 }
 
 .definition {
-    border: solid 5px blue;
+    border: solid 5px black;
+    border-radius: 15px;
     text-align: center;
     width: 45%;
     margin: auto;
@@ -30,6 +32,7 @@ button {
     color: white;
     background-color: gold;
     padding: 20px;
+    border-radius: 15px;
 }
 
 button:hover{
