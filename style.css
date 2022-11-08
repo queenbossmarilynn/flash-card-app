@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Didact+Gothic&display=swap');
 .title {
     text-align: center;
     font-family: 'Bebas Neue', cursive;
@@ -8,20 +8,26 @@
 .term {
     border: solid 5px black;
     border-radius: 15px;
+    padding: 15px;
     text-align: center;
     width: 45%;
     margin: auto;
     margin-top: 100px;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 26px;
 }
 
 .definition {
     border: solid 5px black;
     border-radius: 15px;
+    padding: 30px;
     text-align: center;
     width: 45%;
     margin: auto;
     margin-top: 100px;
     display: none;
+    font-family: 'Didact Gothic', sans-serif;
+    font-size: 16px;
 }
 
 .button {

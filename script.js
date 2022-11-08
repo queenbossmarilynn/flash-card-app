@@ -6,8 +6,13 @@ const definition = document.querySelector('.definition');
 // Terms and Definitions List (DICTIONARY)
 words = {
     Cosmetology: "The art and science of beautifying and improving the skin, nails, hair, and includes the study of cosmetics and their application.",
-    Ethics: "The conscious act of planning your life, instead of just letting things happen.",
-    "Game Plan": "The identification of long-term and short-term goals that helps you decide what you want out of life.",
+    Ethics: "The moral principles by which we live and work.",
+    "Game Plan": "The conscious act of planning your life, instead of just letting things happen.",
+    "Game Setting": "The identification of long-term and short-term goals that helps you decide what you want out of life.",
+    "Mission Statement": "A statement that establishes the values that an individuals or institution lives by, as well as future goals.",
+    Perfectionism: "An unhealthy compulsion to do things perfectly.",
+    Prioritize: "To make a list of task that needs to be done in the order of most-to-least important.",
+    Procrastination: "Putting off until tomorrow what you can do today.",
 }
 
 //Grab the Term/Definition
