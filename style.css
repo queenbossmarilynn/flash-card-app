@@ -20,3 +20,19 @@
     margin: auto;
     margin-top: 100px;
 }
+
+.button {
+    text-align: center;
+    margin-top: 100px;
+}
+
+button {
+    color: white;
+    background-color: gold;
+    padding: 20px;
+}
+
+button:hover{
+    transform: scale(1.1);
+    color: black;
+}
